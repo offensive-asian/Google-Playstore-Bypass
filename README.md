@@ -15,8 +15,3 @@ This exploit is made using two collaborators. Alexia Surcouf and Offensive Asian
 ONLY IF NOTHING GOES WRONG OR TEACHERS/IT DOESN'T FIND OUT
 
 # Tested or not?
-
-- Lightspeed (80% working gauranteed as long as websockets aren't blocked lol)
-- GoGuardian ^^
-
-If it doesn't work, you did something wrong, or websockets is turned off, or you're a skid and you suck at following directions to the fucking point you will recieve a retard role in Dashers Network, or in Vencord.
