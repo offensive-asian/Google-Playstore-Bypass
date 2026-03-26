@@ -12,6 +12,8 @@ This exploit is made using two collaborators. Alexia Surcouf and Offensive Asian
 # Release Date
 24 Hours (March 26th, 2026, at 6 or 7 PM EDT.)
 
+ONLY IF NOTHING GOES WRONG OR TEACHERS/IT DOESN'T FIND OUT
+
 # Tested or not?
 
 - Lightspeed (80% working gauranteed as long as websockets aren't blocked lol)
